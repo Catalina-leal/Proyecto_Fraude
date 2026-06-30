@@ -1,0 +1,86 @@
+[
+  {
+    "category": "shopping_net",
+    "total_transactions": 97543,
+    "fraud_rate": 0.017561485703740914,
+    "risk_level": "medio"
+  },
+  {
+    "category": "misc_net",
+    "total_transactions": 63287,
+    "fraud_rate": 0.014457945549638947,
+    "risk_level": "medio"
+  },
+  {
+    "category": "grocery_pos",
+    "total_transactions": 123638,
+    "fraud_rate": 0.014097607531665023,
+    "risk_level": "medio"
+  },
+  {
+    "category": "shopping_pos",
+    "total_transactions": 116672,
+    "fraud_rate": 0.007225383982446517,
+    "risk_level": "medio"
+  },
+  {
+    "category": "gas_transport",
+    "total_transactions": 131659,
+    "fraud_rate": 0.004693944204346076,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "misc_pos",
+    "total_transactions": 79655,
+    "fraud_rate": 0.003138534931893792,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "grocery_net",
+    "total_transactions": 45452,
+    "fraud_rate": 0.0029481650972454456,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "travel",
+    "total_transactions": 40507,
+    "fraud_rate": 0.0028637025699261858,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "entertainment",
+    "total_transactions": 94014,
+    "fraud_rate": 0.0024783542876592847,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "personal_care",
+    "total_transactions": 90758,
+    "fraud_rate": 0.002424028735758831,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "kids_pets",
+    "total_transactions": 113035,
+    "fraud_rate": 0.0021143893484319018,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "food_dining",
+    "total_transactions": 91461,
+    "fraud_rate": 0.0016509769191239982,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "home",
+    "total_transactions": 123115,
+    "fraud_rate": 0.0016082524468992406,
+    "risk_level": "bajo"
+  },
+  {
+    "category": "health_fitness",
+    "total_transactions": 85879,
+    "fraud_rate": 0.0015486905995645036,
+    "risk_level": "bajo"
+  }
+]

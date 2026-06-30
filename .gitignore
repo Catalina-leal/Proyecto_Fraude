@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+data/raw/*.csv
+data/sql/*.db
+data/nosql/*.json
+data/processed/*.csv
+data/processed/*.json
+**/__pycache__/
+*.pyc

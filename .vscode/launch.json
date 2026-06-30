@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Ejecutar ETL",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/etl/run_pipeline.py",
+      "console": "integratedTerminal",
+      "args": [
+        "--input",
+        "C:\\Users\\catal\\Downloads\\train (1).csv",
+        "--max-rows",
+        "50000"
+      ]
+    }
+  ]
+}
